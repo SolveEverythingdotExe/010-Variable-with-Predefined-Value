@@ -1,0 +1,9 @@
+E:\Projects\C#\YT\010\MainApplication\MainApplication\bin\Debug\MainApplication.exe.config
+E:\Projects\C#\YT\010\MainApplication\MainApplication\bin\Debug\MainApplication.exe
+E:\Projects\C#\YT\010\MainApplication\MainApplication\bin\Debug\MainApplication.pdb
+E:\Projects\C#\YT\010\MainApplication\MainApplication\obj\Debug\MainApplication.csprojResolveAssemblyReference.cache
+E:\Projects\C#\YT\010\MainApplication\MainApplication\obj\Debug\MainApplication.MainForm.resources
+E:\Projects\C#\YT\010\MainApplication\MainApplication\obj\Debug\MainApplication.Properties.Resources.resources
+E:\Projects\C#\YT\010\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.GenerateResource.Cache
+E:\Projects\C#\YT\010\MainApplication\MainApplication\obj\Debug\MainApplication.exe
+E:\Projects\C#\YT\010\MainApplication\MainApplication\obj\Debug\MainApplication.pdb
